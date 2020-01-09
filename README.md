@@ -2,8 +2,8 @@
 数字货币交易所-btc-trading-market
 
 ### 演示地址：
-http://www.btcat.cn:88/  wap版  
-http://btcat.cn:8080/  web版。这个电脑上打开  
+http://103.38.41.106:88/  wap版  
+http://103.38.41.106:8080/  web版。这个电脑上打开  
 
 ###  
 部分前端源码已传到本项目底下。  
